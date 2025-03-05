@@ -1,5 +1,5 @@
 homepage: "https://www.martijnvanvreeden.nl"
 documentation: "bloomreach_discovery_pageview_unofficial"
 versions:
-  - sha: df81af5f2d478780dd861c20ac1377007e133dfd
+  - sha: 733e5be71aba2674922b4a87e7391c0b642de8b3
     changeNotes: Initial release.
