@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Bloomreach Discovery Pageview Tag (unofficial)",
+  "categories": ["PERSONALIZATION", "MARKETING"],
   "brand": {
     "id": "martijnvv",
     "displayName": "Martijn van Vreeden",
