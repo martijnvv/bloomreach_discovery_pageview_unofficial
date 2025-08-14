@@ -6,27 +6,6 @@ https://developers.google.com/tag-manager/gallery-tos (or such other URL as
 Google may provide), as modified from time to time.
 
 
-___INFO___
-
-{
-  "type": "TAG",
-  "id": "cvt_temp_public_id",
-  "version": 1,
-  "securityGroups": [],
-  "displayName": "Bloomreach Discovery Pageview Tag (unofficial)",
-  "categories": ["PERSONALIZATION", "MARKETING"],
-  "brand": {
-    "id": "martijnvv",
-    "displayName": "Martijn van Vreeden",
-    "thumbnail": "data:image/png;base64,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\u003d"
-  },
-  "description": "The Bloomreach Pageview tag provides integration options for Bloomreach in GTM for all of it\u0027s pageview types, including all required variables.",
-  "containerContexts": [
-    "WEB"
-  ]
-}
-
-
 ___TEMPLATE_PARAMETERS___
 
 [
@@ -116,6 +95,13 @@ ___TEMPLATE_PARAMETERS___
     "macrosInSelect": true,
     "selectItems": [],
     "simpleValueType": true
+  },
+  {
+    "type": "TEXT",
+    "name": "br_user_id",
+    "displayName": "User ID",
+    "simpleValueType": true,
+    "help": "See documentation \u003ca href\u003d\"https://documentation.bloomreach.com/discovery/docs/pixel-parameters-recommended-implementation#br_datauser_id-parameter-overview\"\u003e about the user ID\u003c/a\u003e"
   },
   {
     "type": "GROUP",
@@ -269,6 +255,8 @@ br_data.ptype = data.br_page_type;
 br_data.origin_source = 'gtm_tag';
 br_data.ref = data.br_referrer;
 br_data.orig_ref_url = data.br_orig_ref_url;
+br_data.user_id = data.br_user_id || "";
+br_data.debug = data.debug;
 
 
 if(data.br_page_type == 'content'){
@@ -346,7 +334,7 @@ ___WEB_PERMISSIONS___
           "key": "environments",
           "value": {
             "type": 1,
-            "string": "all"
+            "string": "debug"
           }
         }
       ]
