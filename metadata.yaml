@@ -1,6 +1,8 @@
 homepage: "https://martijnvanvreeden.nl"
 documentation: "bloomreach_discovery_pageview_unofficial"
 versions:
+  - sha: ba6daf00050541e1fddb5cb20551ec4cb7290bed
+    changeNotes: Added additional safeguards to debug mode
   - sha: 69ca28bb0f02b3cecdcaca504b002abe73ab32bc
     changeNotes: Add User ID support and propagate debug flag to payload. Introduce br_user_id parameter and include br_data.user_id; add br_data.debug so downstream sees debug state
   - sha: f10836140e261bb66ccc80407672ad156e69378b
